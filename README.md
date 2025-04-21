@@ -19,7 +19,7 @@ Bem-vindo ao **Anna-Base Bot**! Este README interativo irá guiá-lo para config
     ```
 
 3. **Configure o Bot**  
-    Siga até ./src/config/settings.js e edite as seguintes variáveis:
+    Siga até `./src/config/settings.js` e edite as seguintes variáveis:
     ```env
      settings: {
       prefix: '!',
