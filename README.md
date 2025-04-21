@@ -90,4 +90,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 💡 **Dica**: Para suporte ou dúvidas, entre em contato conosco no [Discord](https://discord.com).
 
 Divirta-se usando o **Anna-Base Bot**! 🎉
-```
+## Powered by GleysonDevs Oficial
