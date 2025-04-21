@@ -1,4 +1,4 @@
-```markdown
+
 # 🤖 Anna-Base Bot
 
 Bem-vindo ao **Anna-Base Bot**! Este README interativo irá guiá-lo para configurar e usar o bot de forma simples e divertida. 🌟
