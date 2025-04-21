@@ -57,21 +57,21 @@ Bem-vindo ao **Anna-Base Bot**! Este README interativo irá guiá-lo para config
 
 | Comando            | Descrição                                      |
 |--------------------|------------------------------------------------|
-| `!ping`            | Verifica se o bot está online.                 |
-| `!menu`            | Mostra a lista de todos os comandos.           |
-| `!antifake [on/off]` | Ativa ou desativa o sistema antifake.        |
-| `!antilink [on/off]` | Ativa ou desativa o sistema antilink.        |
-| `!antilinkhard [on/off]` | Ativa ou desativa o sistema antilinkhard.  |
-| `!antiporno [on/off]` | Ativa ou desativa o sistema antiporno.       |
-| `!ban @user`       | Bane um usuário do grupo.                      |
-| `!setup`           | Configura a mensagem de boas-vindas do grupo.  |
-| `!status`          | Verifica o status do bot no grupo.             |
-| `!play [termo]`    | Pesquisa e envia áudio do YouTube.             |
-| `!ytmp3 [url]`     | Baixa áudio de um vídeo do YouTube.            |
-| `!play_video [termo]` | Pesquisa e envia vídeo do YouTube.          |
-| `!ytmp4 [url]`     | Baixa vídeo de um vídeo do YouTube.            |
-| `!tiktok [url]`    | Baixa vídeo do TikTok.                         |
-| `!tiktokmp3 [url]` | Baixa áudio de um vídeo do TikTok.             |
+| ✅ `!ping`            | Verifica se o bot está online.                 |
+| ✅  `!menu`            | Mostra a lista de todos os comandos.           |
+| ✅  `!antifake [on/off]` | Ativa ou desativa o sistema antifake.        |
+| ✅  `!antilink [on/off]` | Ativa ou desativa o sistema antilink.        |
+| ✅  `!antilinkhard [on/off]` | Ativa ou desativa o sistema antilinkhard.  |
+| ✅  `!antiporno [on/off]` | Ativa ou desativa o sistema antiporno.       |
+| ✅  `!ban @user`       | Bane um usuário do grupo.                      |
+| ✅  `!setup`           | Configura a mensagem de boas-vindas do grupo.  |
+| ✅  `!status`          | Verifica o status do bot no grupo.             |
+| ✅  `!play [termo]`    | Pesquisa e envia áudio do YouTube.             |
+| ✅  `!ytmp3 [url]`     | Baixa áudio de um vídeo do YouTube.            |
+| ✅  `!play_video [termo]` | Pesquisa e envia vídeo do YouTube.          |
+| ✅  `!ytmp4 [url]`     | Baixa vídeo de um vídeo do YouTube.            |
+| ✅  `!tiktok [url]`    | Baixa vídeo do TikTok.                         |
+| ✅  `!tiktokmp3 [url]` | Baixa áudio de um vídeo do TikTok.             |
 
 ---
 
