@@ -19,10 +19,23 @@ Bem-vindo ao **Anna-Base Bot**! Este README interativo irá guiá-lo para config
     ```
 
 3. **Configure o Bot**  
-    Crie um arquivo `.env` com as seguintes variáveis:
+    Siga até ./src/config/settings.js e edite as seguintes variáveis:
     ```env
-    BOT_TOKEN=seu-token-aqui
-    PREFIX=!
+     settings: {
+      prefix: '!',
+      ownerNumber: '5511999999999@s.whatsapp.net',
+      botName: 'Bot 2025',
+    },
+    api: {
+      url: 'https://zero-two.online',
+      url2: 'https://api.nexfuture.com.br',
+      key: 'SUa Apikey',
+    },
+    images: {
+      MenuImg: 'https://img1.pixhost.to/images/5184/590318262_menulist-image2.jpg',
+      welcomeBg: 'https://img1.pixhost.to/images/5183/590307255_image.jpg',
+      goodbyeBg: 'https://example.com/goodbye-bg.jpg',
+    },
     ```
 
 4. **Inicie o Bot**  
