@@ -74,7 +74,7 @@ async function startBot() {
     });
 
     if (usePairingCode && !socket.authState.creds.registered) {
-      console.log(colors.cyan('⚠️ Modo de emparelhamento por código.'));
+      console.log(colors.green('⚠️ Modo de emparelhamento por código.'));
       const phoneNumber = await question(colors.cyan('📱 Insira o número (ex.: +556599999999): '));
       const cleanedNumber = collectNumbers(phoneNumber);
       if (!cleanedNumber || cleanedNumber.length < 10) {
@@ -82,7 +82,7 @@ async function startBot() {
       }
       try {
         const code = await socket.requestPairingCode(cleanedNumber);
-        console.log(colors.cyan('🔑 Código: ') + colors.white(code));
+        console.log(colors.green('🔑 Código: ') + code);
       } catch (error) {
         console.error(`Erro ao gerar código: ${error.message || error}`);
         process.exit(1);
