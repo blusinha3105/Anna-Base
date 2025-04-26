@@ -13,7 +13,7 @@ const path = require('path');
 
 
 const colors = {
-  corzinhas: ['red', 'green', 'yellow', 'blue', 'magenta', 'cyan', 'gray', 'redBright', 'greenBright', 'yellowBright', 'blueBright', 'magentaBright', 'cyanBright', 'whiteBright'],
+  corzinhas: ['red', 'green', 'yellow', 'blue', 'magenta', 'cyan', 'gray', 'redBright', 'greenBright', 'yellowBright', 'blueBright', 'magentaBright', 'cyanBright'],
   getRandomColor: () => colors.corzinhas[Math.floor(Math.random() * colors.corzinhas.length)],
 };
 
